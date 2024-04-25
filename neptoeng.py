@@ -1,4 +1,6 @@
+#pip install nepali
 from nepali.date_converter import converter
+
 
 # Open the input text file in read mode
 with open('input.txt', 'r') as file:
